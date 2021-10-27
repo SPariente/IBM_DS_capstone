@@ -1,6 +1,6 @@
 This is the repository for the IBM Data Science and Machine Learning capstone project
 Contents:
-	- PDF version of the report:
+	- PDF version of the report: ds-capstone-report-edx.pdf 
 	- Jypyterlab file for API data collection: jupyter-labs-spacex-data-collection-api.ipynb
 	- Jupyterlab file for web scraping: jupyter-labs-webscraping.ipynb
 	- Jupyterlab file for data wrangling: labs-jupyter-spacex-Data wrangling.ipynb
